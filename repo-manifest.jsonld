@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pvlib/pvanalytics/commit/06fd59694b2a9461ff29c5d22d691bb23c4f956e",
       "git:hexsha": "06fd59694b2a9461ff29c5d22d691bb23c4f956e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pvlib/pvanalytics/commit/27ea3fdddaf0e885cce8b56438256b7e51e9bdea",
